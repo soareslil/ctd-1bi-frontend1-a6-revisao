@@ -17,3 +17,8 @@ footer {
   padding-left: 25px;
   padding-bottom: 10px;
 }
+
+ol#lista-ol li {
+  color: blue;
+  text-align: center;
+}
