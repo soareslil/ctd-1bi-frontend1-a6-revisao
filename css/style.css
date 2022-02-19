@@ -22,3 +22,7 @@ ol#lista-ol li {
   color: blue;
   text-align: center;
 }
+
+a {
+  text-decoration: none;
+}
