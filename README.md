@@ -52,7 +52,6 @@ Salve as alterações e visualize o resultado em seu navegador.
  
 <br><br>
 ### ___Conclusão___
-<br><br>
 
 >Se chegamos até aqui, teremos ótimas homenagens para compartilhar com os professores e com a turma e continuar inspirando as transformações necessárias. Excelente trabalho!
 
