@@ -50,9 +50,9 @@ Salve as alterações e visualize o resultado em seu navegador.
  3- Ainda no terminal git, utilize o comando git push origin para enviar o código confirmado em sua máquina para o repositório remoto no GitHub. <br>
  4- Acesse e atualize seu repositório do GitHub para verificar a atualização. <br>
  
-<br>
-__Conclusão___
-<br>
+<br><br>
+___Conclusão___
+<br><br>
 
 >Se chegamos até aqui, teremos ótimas homenagens para compartilhar com os professores e com a turma e continuar inspirando as transformações necessárias. Excelente trabalho!
 
