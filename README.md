@@ -9,7 +9,6 @@
 __*Objetivos: Aplicar tags ao projeto inicial*__ 
 <br><br>
 >Aplicar o uso correto de tags HTML, compreendendo a semântica e a estrutura do documento, de forma a criar uma página com listas ordenadas, desordenadas e com imagem.
-![alt logo-ctd](https://vidadeempresa.com.br/wp-content/uploads/2021/02/curso.png)
 
 Boa Sorte!✨ 
 
