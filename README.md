@@ -1,4 +1,4 @@
-## |BEM VINDX AO MEU REPOSITÓRIO ✨✨✨✨✨✨|
+## |BEM VINDX AO MEU REPOSITÓRIO| ✨✨✨✨✨✨
 | — — — |  
 |### __Aula 06 -  Revisão e prática II__|
 
