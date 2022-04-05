@@ -51,7 +51,8 @@ Salve as alterações e visualize o resultado em seu navegador.
  4- Acesse e atualize seu repositório do GitHub para verificar a atualização. <br>
  
 <br>
-__Conclusão__ 
+__Conclusão___
+<br>
 
 >Se chegamos até aqui, teremos ótimas homenagens para compartilhar com os professores e com a turma e continuar inspirando as transformações necessárias. Excelente trabalho!
 
