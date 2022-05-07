@@ -1,6 +1,8 @@
 ## BEM VINDX AO MEU REPOSITÓRIO 👩‍💻👩‍💻✨
 
-### __Aula 06 -  Revisão e prática II__
+## 💻✨ CTD : Primeiro Bimestre 
+## 📃✨ Disciplina: Front End 1  
+## 👩‍💻💻 __Aula 06: Revisão e prática II__
 
 <br>
 
